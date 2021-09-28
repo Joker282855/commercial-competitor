@@ -14,7 +14,7 @@ This challenge had us build the backend with sequelize for an e-commerce company
 These tasks were achieved by reviewing the module for lesson 13. I also read the documentation for SQL and used that to create the database and the routes that get us the information for the database.
 
 # Link to Video:
-<a href="">Link To Video</a>
+<a href="https://watch.screencastify.com/v/jUhugvPl8tVVXlx1baJH">Link To Video</a>
 
 # Contributors:
 Made with love by Josh Jackson
