@@ -11,4 +11,9 @@ This challenge had us build the backend with sequelize for an e-commerce company
 4. We can use the put and delete routes to update routes to add or delete a category, product, and tags shown in the database.
 
 # Assignment Tasks Achieved By:
-These tasks were achieved by
+These tasks were achieved by reviewing the module for lesson 13. I also read the documentation for SQL and used that to create the database and the routes that get us the information for the database.
+
+# Link to Video:
+<a href="">Link To Video</a>
+
+# 
