@@ -4,12 +4,6 @@ E Commerical Database
 # Description:
 This challenge had us build the backend with sequelize for an e-commerce company that wants to be able to compete with its competition. The database included tables for the products, category of the products, and the tags associated with the products model. It was also required that the tables were related to one another with foreign keys so the update, get, delete, and post routes could function properly.
 
-# Table of Contents:
--[Tasks](#tasks)
--[Tasks Achieved By](#tasks-achieved-by)
--[Walkthrough Video](#walkthrough-video)
--[Contirbutors](#contributors)
-
 # Tasks:
 1. We had to create an enviorment variable that protected the sensitve information for the client when they visit the website.
 2. We can use the db command with the schema.sql file to create the database and then the command to seed the database and its tables.
